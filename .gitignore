@@ -1,0 +1,8 @@
+# Dossiers à ignorer
+__pycache__/
+data/
+venv/
+
+# Fichiers à ignorer
+my_variable.pkl
+OptimisationConvex.pdf
