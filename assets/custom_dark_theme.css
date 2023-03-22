@@ -1,0 +1,50 @@
+/* Couleurs de base */
+:root {
+    --background-color: #303030;
+    --text-color: #f0f0f0;
+    --primary-color: #1a73e8;
+    --secondary-color: #e8e8e8;
+}
+
+/* Arrière-plan et couleur du texte */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* Couleurs de base */
+:root {
+    --background-color: #303030;
+    --text-color: #f0f0f0;
+    --primary-color: #1a73e8;
+    --secondary-color: #e8e8e8;
+}
+
+/* Arrière-plan et couleur du texte */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+.FiltreG {
+    display: flex;
+    flex-flow: row nowrap;
+    place-content: center;
+    justify-content: space-around;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+H1 {
+    text-align: center;
+}
+
+H2 {
+    text-align: center;
+}
